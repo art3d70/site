@@ -1,0 +1,20 @@
+/*
+Name: Sitio Confetti
+URI:www.productosconfetti.com
+Author: Arturo Benitez
+
+*/
+html{
+	font-size:100%;
+}
+
+body{
+	font-size:16px;
+	font-family:Arial;
+}
+
+.container{
+	margin:0 auto;
+	max-width:600px;
+	padding:2em 0;
+}
